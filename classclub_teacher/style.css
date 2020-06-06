@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+    border: 1.5px dashed darkcyan;
+    background-color: paleturquoise ;
+}
+
+td{
+    border-top: 1.5px groove darkcyan ;
+    
+}
+
+th{
+    border: 1px  groove darkcyan;
+    
+}
+
